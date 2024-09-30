@@ -11,10 +11,10 @@ Clone the project from the [starter].
 
 ## Instructions
 
-Take a look at the server code in __server.js__. `GET /artists` is already
+Take a look at the server code in **server.js**. `GET /artists` is already
 implemented for you. The seed data for artists, albums, and songs are imported
-from the JSON files in the __seeds__ folder. The seed data for `artists`,
-`albums`, and `songs` saved to variables at the top of the __server.js__ file.
+from the JSON files in the **seeds** folder. The seed data for `artists`,
+`albums`, and `songs` saved to variables at the top of the **server.js** file.
 
 Implement the code for the endpoints that you documented in the API docs for a
 Music Archive practice.
